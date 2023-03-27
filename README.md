@@ -18,6 +18,9 @@ Hi 👋, thanks for stopping by.
  
  ### Devops
  - Aws, Docker, Terraform, Firebase, Supabase, Kubernetes
+ 
+ ### Interests
+ - Life, Programming, Meditation, Yoga, Spirituality, Society, Economics, Philosophy, Sports, Music
 
 ### How to contact me?
 [LinkedIn](https://www.linkedin.com/in/brihaspati/)
