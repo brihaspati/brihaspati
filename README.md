@@ -9,7 +9,6 @@ Hi 👋, thanks for stopping by.
 ### Backend skills
 - Elixir, Phoenix, Liveview, Ecto, Nodejs, Hapijs, Go
 - Postgres, Rabbitmq, Redis
-- 
 
 
 ### Frontend skills
@@ -17,6 +16,8 @@ Hi 👋, thanks for stopping by.
  - Tailwind, SASS/SCSS
  - Vite, Webpack
  
+ ### Devops
+ - Aws, Docker, Terraform, Firebase, Supabase, Kubernetes
 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=brihaspati&left_color=green&right_color=red)
