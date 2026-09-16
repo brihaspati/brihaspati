@@ -1,7 +1,6 @@
-Hi 👋, My name is Brihaspati G Bharani and I am a Senior Software Engineer with a decade of experience in building scalable and robust web applications. Specializing in Elixir, Phoenix, Postgres, Reactjs, Nexjs, Typescript, I bring a complete set of skills to drive innovation and excellence within full stack web development. 
+Hi 👋, My name is Brihaspati G Bharani and I am a Senior Software Engineer with a decade of experience in building scalable and robust web applications. Specializing in AI, Elixir, Phoenix, Postgres, Reactjs, Nexjs, Typescript, I bring a complete set of skills to drive innovation and excellence within full stack web development. 
 
 ### 🧢 More about myself
-- Originally from India 🇮🇳, currently living in Sweden 🇸🇪
 - Experience: ~11 years
 - Current Tech Stack - Elixir, Phoenix, Liveview, Postgres, Nextjs, React, Tailwind
 
